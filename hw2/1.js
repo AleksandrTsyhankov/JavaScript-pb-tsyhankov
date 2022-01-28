@@ -17,4 +17,4 @@ function f(num) {
   return Math.pow(num, 3);
 };
 
-console.log(f(2));
+console.log(f(3));
